@@ -1,0 +1,11 @@
+* {
+    margin-left: 4px;
+}
+
+.col {
+    max-width: 50%;
+}
+
+button {
+    margin-top: 24px;
+}
